@@ -1,0 +1,34 @@
+{
+  "name": "basic_server_express",
+  "version": "1.0.0",
+  "description": "Folder structure",
+  "main": "web-server.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "karma": "^0.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node web-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jimmyhernandez/folder_structure"
+  },
+  "keywords": [
+    "folder",
+    "structure",
+    "basic",
+    "express",
+    "server"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmyhernandez/folder_structure/issues"
+  },
+  "homepage": "https://github.com/jimmyhernandez/folder_structure"
+}
